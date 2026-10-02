@@ -68,5 +68,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/retiro-park-walking-route-en.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/ruta-a-pie-por-el-retiro-desde-usera.html"/>
   </url>
+  <!-- Pareja 6: pagina pilar Rutas por Madrid -->
+  <url>
+    <loc>https://www.lametasomostodos.com/p/rutas-madrid.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/p/rutas-madrid.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/p/madrid-routes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/p/rutas-madrid.html"/>
+  </url>
+  <url>
+    <loc>https://www.lametasomostodos.com/p/madrid-routes.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/p/rutas-madrid.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/p/madrid-routes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/p/rutas-madrid.html"/>
+  </url>
 
 </urlset>
