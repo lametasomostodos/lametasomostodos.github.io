@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Pareja 1: Madrid Rio -->
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/09/ruta-rio-manzanares-madrid-rio.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/09/ruta-rio-manzanares-madrid-rio.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/09/madrid-rio-run-walk-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/ruta-rio-manzanares-madrid-rio.html"/>
+  </url>
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/09/madrid-rio-run-walk-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/09/ruta-rio-manzanares-madrid-rio.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/09/madrid-rio-run-walk-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/ruta-rio-manzanares-madrid-rio.html"/>
+  </url>
+
+  <!-- Pareja 2: Letras de Madrid Rio -->
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/10/letras-madrid-rio-donde-estan.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/10/letras-madrid-rio-donde-estan.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/madrid-rio-letters-madrid-sign-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/10/letras-madrid-rio-donde-estan.html"/>
+  </url>
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/10/madrid-rio-letters-madrid-sign-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/10/letras-madrid-rio-donde-estan.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/madrid-rio-letters-madrid-sign-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/10/letras-madrid-rio-donde-estan.html"/>
+  </url>
+
+</urlset>
