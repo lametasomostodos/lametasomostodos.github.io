@@ -42,5 +42,31 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/madrid-railway-museum-tickets-hours-en.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/museo-del-ferrocarril-madrid.html"/>
   </url>
+  <!-- Pareja 4: Pradolongo -->
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/09/parque-de-pradolongo-usera-madrid.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/09/parque-de-pradolongo-usera-madrid.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/pradolongo-park-usera-madrid-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/parque-de-pradolongo-usera-madrid.html"/>
+  </url>
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/10/pradolongo-park-usera-madrid-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/09/parque-de-pradolongo-usera-madrid.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/pradolongo-park-usera-madrid-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/parque-de-pradolongo-usera-madrid.html"/>
+  </url>
+  <!-- Pareja 5: Retiro -->
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/09/ruta-a-pie-por-el-retiro-desde-usera.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/09/ruta-a-pie-por-el-retiro-desde-usera.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/retiro-park-walking-route-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/ruta-a-pie-por-el-retiro-desde-usera.html"/>
+  </url>
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/10/retiro-park-walking-route-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/09/ruta-a-pie-por-el-retiro-desde-usera.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/retiro-park-walking-route-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/09/ruta-a-pie-por-el-retiro-desde-usera.html"/>
+  </url>
 
 </urlset>
