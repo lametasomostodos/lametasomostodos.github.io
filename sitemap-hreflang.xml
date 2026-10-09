@@ -81,5 +81,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/p/madrid-routes.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/p/rutas-madrid.html"/>
   </url>
+  <!-- Pareja 7: Arco chino de Usera -->
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/10/arco-chino-usera-madrid-donde-esta-como-llegar.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/10/arco-chino-usera-madrid-donde-esta-como-llegar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/chinatown-arch-madrid-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/10/arco-chino-usera-madrid-donde-esta-como-llegar.html"/>
+  </url>
+  <url>
+    <loc>https://www.lametasomostodos.com/2026/10/chinatown-arch-madrid-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.lametasomostodos.com/2026/10/arco-chino-usera-madrid-donde-esta-como-llegar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.lametasomostodos.com/2026/10/chinatown-arch-madrid-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.lametasomostodos.com/2026/10/arco-chino-usera-madrid-donde-esta-como-llegar.html"/>
+  </url>
 
 </urlset>
